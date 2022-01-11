@@ -1,5 +1,5 @@
 {
-  "compileOnSave": false,
+  "compileOnSave": false, //Note : compile on save config will not work on older versions
   "compilerOptions": {
     "baseUrl": "./",
     "outDir": "./dist/out-tsc",
